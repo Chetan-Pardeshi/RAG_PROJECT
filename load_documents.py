@@ -1,16 +1,11 @@
-#Healthcare Information Assistant using RAG
+import os
 
-
-def load_documents(file_path):
-    """
-    Load text data from the file
-    """
-    with open(file_path, "r", encoding="utf-8") as file:
-        data = file.read()
+def load_documents(folder_path):
+    all_text = ""
     
-    return data
-
-
-if __name__ == "__main__":
-    documents = load_documents("data.txt")
-    print(documents)
+    for file in os.listdir(folder_path):
+        if file.endswith(".txt"):
+            with open(os.path.join(folder_path, file), "r", encoding="utf-8") as f:
+                all_text += f.read() + "\n"
+    
+    return all_text

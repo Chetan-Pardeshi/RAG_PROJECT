@@ -1,0 +1,6 @@
+Prior authorization is a process where healthcare providers must obtain approval from insurance companies before performing certain procedures. 
+It ensures that the treatment is medically necessary and covered under the policy. 
+Without authorization, claims may be denied. 
+The process involves submitting patient details and treatment information to the insurer. 
+Once approved, the provider can proceed with the treatment. 
+This helps control unnecessary medical expenses.

@@ -1,0 +1,5 @@
+Denial in healthcare occurs when an insurance company rejects a claim submitted by a healthcare provider. 
+This can happen due to incorrect patient information, missing documents, or coding errors. 
+Denial management is the process of identifying and correcting these issues. 
+After fixing the errors, the claim is resubmitted for approval. 
+Effective denial management helps ensure timely payment and reduces revenue loss.

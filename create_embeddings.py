@@ -11,9 +11,13 @@ def create_embeddings(chunks):
 
 
 if __name__ == "__main__":
-    text = load_documents("data.txt")
+    # ✅ Load all text files from 'data' folder
+    text = load_documents("data")   # ❌ removed "data.txt"
+    
+    # ✅ Create chunks
     chunks = chunk_text(text)
 
+    # ✅ Generate embeddings
     embeddings = create_embeddings(chunks)
 
     print("Number of chunks:", len(chunks))

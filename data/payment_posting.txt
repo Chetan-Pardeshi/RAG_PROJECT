@@ -1,0 +1,3 @@
+Payment posting is the process of recording payments received from insurance companies or patients in a healthcare system. 
+It ensures that payments are accurately applied to patient accounts. 
+This process helps identify underpayments, overpayments, and discrepancies.

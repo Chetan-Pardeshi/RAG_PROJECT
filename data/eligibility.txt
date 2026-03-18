@@ -1,0 +1,7 @@
+Eligibility verification is the process of checking whether a patient’s insurance coverage is active. 
+It is done before providing medical serv    ices to avoid claim rejections. 
+The process includes verifying patient details, policy status, and coverage benefits. 
+It ensures that the services are covered under the insurance plan. 
+Incorrect eligibility verification can result in denied claims or unpaid bills. 
+Healthcare staff use online portals or contact insurance providers to verify eligibility. 
+This step is important for smooth claim processing and payment.
